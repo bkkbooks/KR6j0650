@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0650/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 正了知王藥叉眷屬法
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0182.xml
+    old_id: X02n0182
+hash: sha256:5243667717e98f847d99fbb62e2a9d3c705be8e179e980ca87acd128029f48f8

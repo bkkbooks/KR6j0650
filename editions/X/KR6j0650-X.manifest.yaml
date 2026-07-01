@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0650/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0650/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 正了知王藥叉眷屬法
+  identifiers:
+    krp: KR6j0650
+    cbeta: X02n0182
+    cbeta_old_id: X02n0182
+    authorityid: CA0004056
+    json_key: X0182
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X02/X02n0182.xml
+    old_id: X02n0182
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0650_000-X.yaml, hash: 'sha256:5243667717e98f847d99fbb62e2a9d3c705be8e179e980ca87acd128029f48f8'}
+  - {seq: 1, filename: KR6j0650_001-X.yaml, hash: 'sha256:c02d3991090d982949329fdeaebd96d961e9e1e605120c6ac3f1e6cf58166ce1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0650_000-X.markers.yaml, hash: 'sha256:d7585aa5e4bd7adc5dcc66de07abfad223d9a30ec1e4dff1675c3472382bb052'}
+  - {seq: 1, role: markers, filename: assets/KR6j0650_001-X.markers.yaml, hash: 'sha256:e04fa6ec34ebc5b2a756b2d90b31b82188238aa6543ad7520bf46e0623a77bcc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0650_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 528
+  label: 正了知王藥叉眷屬法
+  type: juan
+  level: 1
+hash: sha256:f6bd58ef9e1e798e01a2416e6e22156c2698ae76db8dd44f1130ada722b206d0
