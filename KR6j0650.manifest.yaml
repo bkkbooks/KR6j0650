@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0650_000.yaml, hash: 'sha256:5243667717e98f847d99fbb62e2a9d3c705be8e179e980ca87acd128029f48f8'}
-  - {seq: 1, filename: KR6j0650_001.yaml, hash: 'sha256:c53d75be8d3eb37acb829603999b7f2459ff2ce1f4acb03bfb1664ca69cae7b9'}
+  - {seq: 1, filename: KR6j0650_001.yaml, hash: 'sha256:c02d3991090d982949329fdeaebd96d961e9e1e605120c6ac3f1e6cf58166ce1'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0650_001.markers.yaml, hash: 'sha256:cc69cb0e5f90d722d9d2671199243fe00db7cc4d491beeac896b3cb1ab6f6256'}
+  - {seq: 0, role: markers, filename: assets/KR6j0650_000.markers.yaml, hash: 'sha256:7b696466711aa6c93aa6445c4ddc554ff90cff2ef1ad6420edcbb8b965302263'}
+  - {seq: 1, role: markers, filename: assets/KR6j0650_001.markers.yaml, hash: 'sha256:4179d83166cc5cb1a068167635540c483fe703eca7137602cb2b9cad80854455'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 正了知王藥叉眷屬法
   type: juan
   level: 1
-hash: sha256:8577569f2ddfc0cf13682bc501be87fee98bd2f4bcfe84ae86089a588ec9c9f8
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:cea26cc49978379b368168dc74a4f3143e6a51094423be6e68179d67d1b1d3e3
